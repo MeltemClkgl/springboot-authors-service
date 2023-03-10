@@ -22,7 +22,7 @@ repositories: Contains repository interfaces.
 Application Properties  
 The application.properties file includes the following configurations:  
 spring.jpa.show-sql=true  
-# Use H2 (for development!)  
+Use H2 (for development!)  
 spring.h2.console.enabled=true  
 spring.datasource.url=jdbc:h2:mem:testdb  
 spring.jpa.database=h2  
