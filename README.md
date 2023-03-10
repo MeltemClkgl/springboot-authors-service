@@ -35,3 +35,5 @@ Spring JPA: Provides support for Java Persistence API.
 Spring DevTools: Provides support for development-time features.  
 H2: Provides support for an in-memory database.  
 Lombok: Provides support for reducing boilerplate code.
+![image](https://user-images.githubusercontent.com/115930441/224191224-eba4aec1-d055-4877-b9bf-6df0b832b2a2.png)
+
