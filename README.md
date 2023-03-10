@@ -1,11 +1,11 @@
 # springboot-authors-service
 # Project Title
-This is a Java Spring project that manages authors with a RESTful API.
+This is a Java Spring project that manages authors with a RESTful API.  
 
-Class Structure
-The project consists of the following classes:
+Class Structure  
+The project consists of the following classes:  
 
-Author: The model class that represents an author.
+Author: The model class that represents an author.  
 AuthorBootstrap: A class that initializes sample data for the Author class.
 AuthorController: A REST controller class that handles requests and responses for the Author class.
 Interface
